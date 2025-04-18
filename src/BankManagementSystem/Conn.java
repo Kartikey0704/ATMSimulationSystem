@@ -7,7 +7,7 @@ public class Conn {
     Statement s;
     public Conn() {
         try {
-            c = DriverManager.getConnection("jdbc:mysql:///bankmanagementsystem","root","Kartikey@9837");
+            c = DriverManager.getConnection("jdbc:mysql:///bankmanagementsystem","root","yourpassword");
             s = c.createStatement();
         }catch (Exception e){
             System.out.println(e);
