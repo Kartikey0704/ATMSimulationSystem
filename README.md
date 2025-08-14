@@ -44,8 +44,3 @@ A desktop-based ATM simulation project built using Java and Swing, with MySQL as
 
 - **v1.0** – Initial version with core ATM functionalities
 - **v1.1** – Upcoming improvements (UI refinement, validations, error handling)
-
-## License
-
-This project is intended for academic and personal learning purposes.
-
